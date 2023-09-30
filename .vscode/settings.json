@@ -1,0 +1,14 @@
+{
+    "grammarly.selectors": [
+        {
+            "language": "markdown",
+            "scheme": "file",
+            "pattern": "source/_posts/digital_circuit_note2.md"
+        },
+        {
+            "language": "markdown",
+            "scheme": "file",
+            "pattern": "source/_posts/digital_circuit_note_2.md"
+        }
+    ]
+}

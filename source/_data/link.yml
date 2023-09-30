@@ -1,0 +1,11 @@
+- class_name : club members
+  class_desc : links to club members' personal website or GitHub account
+  link_list : 
+    - name : Tony Zhao (ttzytt)
+      link : https://ttzytt.com
+      descr : personal website of Tony (Yitong) Zhao, club leader
+      avatar : https://avatars.githubusercontent.com/u/92229358?v=4
+    - name: Tom Geng (MqCreaple)
+      link: https://mqcreaple.github.io/
+      avatar: https://mqcreaple.github.io/favicon.png
+      descr: personal website of Tom (Mingqi) Geng, club leader
