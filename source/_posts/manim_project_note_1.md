@@ -180,7 +180,7 @@ self.add(d)
 
 This code will generate the following image:
 
-![img-1](/img/manim_intro_proj/1/img-1.png)
+![img-1](/img/manim_intro_proj/2/img-1.png)
 
 Note that until you run the `self.add(something)` command, the shape is not on the screen although it is created and held by a variable. "Whether the shape is created" and "whether manim knows it is on the screen" is different. You can test this out by removing one or multiple `self.add(something)` lines to see the effect.
 
@@ -196,7 +196,7 @@ circle2 = Circle(2, color=YELLOW).shift(LEFT * 2 + UP)
 self.add(circle2)
 ```
 
-![img-2](/img/manim_intro_proj/1/img-2.png)
+![img-2](/img/manim_intro_proj/2/img-2.png)
 
 `Circle`, `Square`, `Line`, `Dot`, and many other shapes listed in the [manim reference](https://docs.manim.community/en/stable/reference.html) are inherited from a single class called `Mobject`. `Mobject` stands for "mathmatic objects", which has some basic properties such as position, color, etc. that every object has in common.
 
@@ -208,7 +208,7 @@ Can you create this image with manim? There are 3 requirements:
 2. The square is green and filled with 0.8 opacity
 3. The circle passes through the square’s center, and the square’s corner lies on the circle’s center
 
-![img-3](/img/manim_intro_proj/1/img-3.png)
+![img-3](/img/manim_intro_proj/2/img-3.png)
 
 ## Animations
 
@@ -257,7 +257,7 @@ self.wait(1)  # waits for 1 second
 Here is the video produced by the previous code:
 
 {% raw %}
-<video src="/img/manim_intro_proj/1/video.mp4" type='video/mp4' controls='controls' width='100%' height='100%'/></video>
+<video src="/img/manim_intro_proj/2/video.mp4" type='video/mp4' controls='controls' width='100%' height='100%'/></video>
 {% endraw%}
 
 For more information, you can check out the [manim reference](https://docs.manim.community/en/stable/reference.html).
