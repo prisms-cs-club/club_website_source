@@ -17,7 +17,7 @@ toc_number:
 toc_style_simple:
 copyright:
 copyright_author: Albert Zhao
-copyright_author_href: 
+copyright_author_href: https://github.com/pengies
 copyright_url:  
 copyright_info:
 mathjax: false
