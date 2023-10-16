@@ -30,7 +30,7 @@ aside:
 # Lesson 2 - Text
 ## Table of Contents
 1. [Recap](#recap)
-2. [LaTeX](#LaTeX)
+2. [LaTeX](#latex)
 3. [Text in Manim](#text-in-manim)
 4. [Modifying Text](#modifying-text)
 5. [Examples](#examples)
