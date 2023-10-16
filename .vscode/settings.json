@@ -9,6 +9,15 @@
             "language": "markdown",
             "scheme": "file",
             "pattern": "source/_posts/digital_circuit_note_2.md"
+        },
+        {
+            "language": "latex",
+            "scheme": "file",
+            "pattern": "e:\\作业\\PRISMS\\sq\\research\\intro_Maxime\\intro.tex"
+        },
+        {
+            "language": "latex",
+            "scheme": "file"
         }
     ]
 }
