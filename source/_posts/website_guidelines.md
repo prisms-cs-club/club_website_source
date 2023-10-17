@@ -11,7 +11,7 @@ keywords:
 description:
 top_img: 'linear-gradient(to right, #2c3e50, #4ca1af)'
 comments:
-cover: "/img/PRCS_Logo.png"
+cover: /img/PRCS_Logo.png
 toc: true 
 toc_number: true
 toc_style_simple:
