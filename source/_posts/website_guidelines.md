@@ -11,7 +11,7 @@ keywords:
 description:
 top_img: 'linear-gradient(to right, #2c3e50, #4ca1af)'
 comments:
-cover: /img/PRCS_Logo.png
+cover: /img/PRCS_logo.png
 toc: true 
 toc_number: true
 toc_style_simple:
@@ -135,7 +135,7 @@ description:     # Brief description of this post, if left empty, will use the f
 top_img: 'linear-gradient(to right, #2c3e50, #4ca1af)' # top banner image, if you don't have something in your 
                                                        # mind, just use this one
 comments:        # whether to enable comments for this post (default true)
-cover: /img/PRCS_Logo.png # the cover image of this post, if you don't have one, leave it false
+cover: /img/PRCS_logo.png # the cover image of this post, if you don't have one, leave it false
 toc: true        # whether to show the table of content (default true)
 toc_number: true # whether to show the number of each section in the table of content (default false)
 toc_style_simple:
