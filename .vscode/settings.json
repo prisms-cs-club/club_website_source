@@ -18,6 +18,10 @@
         {
             "language": "latex",
             "scheme": "file"
+        },
+        {
+            "language": "markdown",
+            "scheme": "file"
         }
     ]
 }
