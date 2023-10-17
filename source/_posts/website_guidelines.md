@@ -95,6 +95,14 @@ The default port for locally generated hexo website is `4000`, so you can visit 
 
 ## Writing a New Post
 
+Before you start to write, you should make sure that your local repository is up-to-date with the remote repository. To do this, you can run the following command:
+
+```bash
+git pull
+```
+
+This will pull any changes from the remote repository to your local repository. If there are any conflicts, you should resolve them before you start to write.
+
 ### Creating a New File
 
 Every hexo pages are rendered from markdown files, and for the same reason, we need to create a new markdown file for each new post.
