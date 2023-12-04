@@ -60,7 +60,7 @@ Here is the circuit that can perform such a function:
 ### Implement the full adder
 
 Using the half adder cicruit, we can easily make a full adder which gives C_out and sum that only become true when more than two true input or become true while one of the inputs are true respectively. Here is the circuit to make such a logic gate.
-![Full adder](img/digital_circuit/2/full_adder_sample.png)
+![Full adder](/img/digital_circuit/2/full_adder_sample.png)
 
 ## Make Hex number Display
 
